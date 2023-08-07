@@ -1,6 +1,11 @@
-body{
+header{
     background-color: cadetblue;
     color: lightsteelblue;
     text-align: center;
     padding: 20px;
+}
+
+.aqui{
+    color: lightsteelblue;
+    text-align: center;
 }
