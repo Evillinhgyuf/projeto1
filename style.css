@@ -1,7 +1,8 @@
 body{
     background-color: cadetblue;
+    align-items: center;
  }
 
 .a{
-    color: white;
+    color: lightsteelblue;
 }
