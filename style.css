@@ -8,4 +8,5 @@ header{
 .aqui{
     color: lightsteelblue;
     text-align: center;
+    justify-content: space-between;
 }
