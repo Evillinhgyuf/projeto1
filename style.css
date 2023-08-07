@@ -1,8 +1,9 @@
 body{
     background-color: cadetblue;
-    text-align: center;
  }
 
 .a{
     color: lightsteelblue;
+    text-align: center;
+    padding: 20px;
 }
