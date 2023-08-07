@@ -6,7 +6,7 @@ header{
 }
 
 .aqui{
-    color: lightsteelblue;
+    background-color: white;
     text-align: center;
-    justify-content: space-between;
+    position:relative;
 }
