@@ -6,5 +6,6 @@ header{
 
 .aqui{
     background-color: lightblue;
-    position:relative;
+    position: relative;
+    display: inline-block;
 }
