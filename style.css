@@ -1,10 +1,12 @@
 header{
     background-color: cadetblue;
-    color: lightsteelblue;
+    color: midnightblue;
     text-align: center;
     padding: 20px;
 }
 
 .aqui{
-    background-color: white;
+    text-align: center;
+    color: midnightblue;
+    padding: 20px;
 }
