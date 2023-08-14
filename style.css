@@ -7,8 +7,7 @@ header{
 .aqui{
     background-color: lightblue;
     padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+    position:relative;
+    text-align: center;
     
 }
