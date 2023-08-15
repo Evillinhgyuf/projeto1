@@ -7,3 +7,8 @@ header{
 .aqui{
     background-color: lightblue;
 }
+
+.imagens{
+    flex-wrap: row;
+    justify-content: space-evenly;
+}
