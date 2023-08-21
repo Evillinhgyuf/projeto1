@@ -1,5 +1,4 @@
 header{
-    background-color: white;
     text-align: center;
     padding: 20px;
 }
@@ -8,4 +7,5 @@ header{
     background-color: lightblue;
     flex-wrap: row;
     justify-content: space-evenly;
+    text-align: center;
 }
