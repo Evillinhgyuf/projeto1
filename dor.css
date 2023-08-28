@@ -1,8 +1,10 @@
 header{
-    padding-top:70px;
-    padding-right:50px;
-    padding-left:100px; 
-    padding-bottom:70px;
+    justify-content: center;
+    padding-top:50px;
+    padding-right:30px;
+    padding-left:80px; 
+    padding-bottom:50px;
+     border: 2px solid #ddd;
 }
 
 .gal{
@@ -24,7 +26,7 @@ header{
   max-width: 100%;
   height: auto;
   width: auto; 
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
 }
 
 .prev, .next {
