@@ -6,11 +6,6 @@ header{
     padding-bottom:60px;
 }
 
-.gal{
-    text-align: center;
-    padding: 20px;
-}
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
