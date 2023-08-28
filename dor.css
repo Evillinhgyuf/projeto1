@@ -2,10 +2,10 @@ header{
     text-align: justify;
     padding: 20px;
     background-color: "#ffffff";
-    Margin-top:100px;
-    Margin-right:150px;
-    Margin-left:80px;
-    Margin-bottom:100px;
+    padding-top:50px;
+    padding-right:30px;
+    padding-bottom:50px;
+    padding-left:80px; 
 }
 
 .gal{
