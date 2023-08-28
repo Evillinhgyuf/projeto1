@@ -1,1 +1,32 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: 1000px; /* Defina a largura máxima desejada para a galeria */
+  margin: 0 auto;
+}
 
+.image {
+  max-width: 100%; /* Defina a largura máxima desejada para as imagens */
+  height: auto;
+  width: auto; /* Para manter a proporção original */
+  border: 1px solid #ddd;
+}
+
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
+}
