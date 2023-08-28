@@ -5,9 +5,10 @@ header{
 }
 
 .gal{
-    background-color: "#336699";
+    flex-wrap: row;
+    justify-content: space-evenly;
     text-align: center;
-    padding: 20px;
+
 }
 
 .gallery {
