@@ -2,12 +2,13 @@ header{
     text-align: center;
     padding: 20px;
     background-color: "#ffffff";
+    display: inline;
+    float: right;
 }
 
 .gal{
     background-color: "#336699">
     text-align: center;
-    padding: 20px;
 }
 
 .gallery {
