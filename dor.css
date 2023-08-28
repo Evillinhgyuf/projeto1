@@ -5,6 +5,9 @@ header{
 }
 
 .gal{
+    text-align: center;
+    padding: 20px;
+    background-color:"#a6b8db";
     flex-wrap: row;
     justify-content: space-evenly;
     text-align: center;
