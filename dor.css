@@ -17,14 +17,14 @@ header{
   justify-content: center;
   align-items: center;
   gap: 10px;
-  max-width: 1000px; /* Defina a largura máxima desejada para a galeria */
+  max-width: 1000px; 
   margin: 0 auto;
 }
 
 .image {
-  max-width: 100%; /* Defina a largura máxima desejada para as imagens */
+  max-width: 100%;
   height: auto;
-  width: auto; /* Para manter a proporção original */
+  width: auto; 
   border: 1px solid #ddd;
 }
 
