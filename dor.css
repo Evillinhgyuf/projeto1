@@ -41,13 +41,13 @@ input{
 }
 
 .slide {
-  width: 1%;
+  width: 10000%;
   transition: .6s;
 }
 
 .slide img {
-  width: 1%; 
-  height: 1%;
+  width: 1000%; 
+  height: 1000%;
 }
 
 #slide11:checked ~ .s1{
