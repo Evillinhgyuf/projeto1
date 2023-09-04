@@ -2,8 +2,8 @@
 body {
   margin: 0;
   padding: 0;
-  height: 6000vh;
-  width: 6000vw;
+  height: 600vh;
+  width: 600vw;
   background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
