@@ -8,7 +8,9 @@ body {
 }
 
 .content{
-  border-radius: 200px;
+  height: 5200vh;
+  width: 9350vw;
+  border-radius: 20px;
   overflow: hidden;
   position:absolute;
   top: 50%;
@@ -25,6 +27,8 @@ body {
 }
 
 .bar {
+  height:7000vh;
+  width: 1700vw;
   border: 2px solid #F0FFFF;
   margin: 6px;
   border-radius: 5px;
@@ -41,21 +45,23 @@ input{
 }
 
 .slides {
+  height: 1000%;
+  width: 5000%;
   display: flex;
 }
 
 .slide {
-  width: 100%;
+  width: 2000%;
   transition: .6s;
 }
 
 .slide img {
-  width: 100%; 
-  height: 100%;
+  width: 1000%; 
+  height: 1000%;
 }
 
 #slide11:checked ~ .s1{
-  margin-left: 0%; 
+  margin-left: 0; 
 }
 
 
