@@ -2,8 +2,8 @@
 body {
   margin: 0;
   padding: 0;
-  height: 300vh;
-  width: 300vw;
+  height: 200vh;
+  width: 200vw;
   background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
@@ -51,7 +51,7 @@ input{
 }
 
 .slide {
-  width: 20%;
+  width: 17%;
   transition: .6s;
 }
 
