@@ -100,6 +100,3 @@ input{
   margin-left: -180%; 
 }
 
-#slide11:checked ~ .s1{
-  margin-left: -200%; 
-}
