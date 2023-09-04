@@ -2,14 +2,14 @@
 body {
   margin: 0;
   padding: 0;
-  height: 9000vh;
-  width: 9000vw;
+  height: 6000vh;
+  width: 6000vw;
   background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
 .content{
-  height: 5200vh;
-  width: 9350vw;
+  height: 520vh;
+  width: 935vw;
   border-radius: 20px;
   overflow: hidden;
   position:absolute;
@@ -27,8 +27,8 @@ body {
 }
 
 .bar {
-  height:7000vh;
-  width: 1700vw;
+  height:700vh;
+  width: 170vw;
   border: 2px solid #F0FFFF;
   margin: 6px;
   border-radius: 5px;
