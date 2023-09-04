@@ -2,14 +2,14 @@
 body {
   margin: 0;
   padding: 0;
-  height: 100vh;
-  width: 100vw;
+  height: 10vh;
+  width: 10vw;
   background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
 .content{
-  height: 520px;
-  width: 935px;
+  height: 500px;
+  width: 900px;
   border-radius: 20px;
   overflow: hidden;
   position:absolute;
@@ -27,8 +27,8 @@ body {
 }
 
 .bar {
-  width: 70px;
-  height: 17px;
+  width: 60px;
+  height: 10px;
   border: 2px solid #F0FFFF;
   margin: 6px;
   border-radius: 5px;
@@ -51,7 +51,7 @@ input{
 }
 
 .slide {
-  width: 20%;
+  width: 100%;
   transition: .6s;
 }
 
