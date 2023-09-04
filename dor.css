@@ -3,11 +3,13 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  widht: 100vw;
-  blackground: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
+  width: 100vw;
+  background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
 .content{
+  height: 520px;
+  width: 935px;
   border-radius: 20px;
   overflow: hidden;
   position:absolute;
@@ -42,7 +44,7 @@ input{
   display: none;
 }
 
-.slide {
+.slides {
   display: flex;
   width: 500%;
   height: 100%;
