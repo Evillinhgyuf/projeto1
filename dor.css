@@ -45,19 +45,19 @@ input{
 }
 
 .slides {
-  height: 1000%;
-  width: 5000%;
+  height: 100%;
+  width: 500%;
   display: flex;
 }
 
 .slide {
-  width: 2000%;
+  width: 200%;
   transition: .6s;
 }
 
 .slide img {
-  width: 1000%; 
-  height: 1000%;
+  width: 100%; 
+  height: 100%;
 }
 
 #slide11:checked ~ .s1{
