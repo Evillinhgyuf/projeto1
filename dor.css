@@ -2,33 +2,33 @@
 body {
   margin: 0;
   padding: 0;
-  height: 10vh;
-  width: 10vw;
+  height: 1000vh;
+  width: 1000vw;
   background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
 .content{
-  height: 500px;
-  width: 900px;
-  border-radius: 20px;
+  height: 5200px;
+  width: 9350px;
+  border-radius: 200px;
   overflow: hidden;
   position:absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 30%;
+  left: 30%;
+  transform: translate(-30%, -30%);
 }
 
 .navigation{
   position: absolute;
   bottom: 20px;
-  left: 50%;
-  transform: translate(-50%);
+  left: 30%;
+  transform: translate(-30%);
   display: flex;
 }
 
 .bar {
-  width: 60px;
-  height: 10px;
+  width: 600px;
+  height: 100px;
   border: 2px solid #F0FFFF;
   margin: 6px;
   border-radius: 5px;
@@ -46,12 +46,12 @@ input{
 
 .slides {
   display: flex;
-  width: 500%;
-  height: 100%;
+  width: 5000%;
+  height: 1000%;
 }
 
 .slide {
-  width: 100%;
+  width: 1000%;
   transition: .6s;
 }
 
