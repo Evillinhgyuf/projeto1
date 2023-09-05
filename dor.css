@@ -8,8 +8,8 @@ body {
 }
 
 .content{
-  height: 520vh;
-  width: 935vw;
+  height: 520px;
+  width: 935px;
   border-radius: 20px;
   overflow: hidden;
   position:absolute;
