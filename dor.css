@@ -1,5 +1,7 @@
 
 body {
+  text-align: center;
+  padding: 20px;
   background: linear-gradient(72deg, #E0FFFF 1%, #008080 99%);
 }
 
