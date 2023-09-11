@@ -1,11 +1,42 @@
 
-body {
-  text-align: center;
-  padding: 20px;
+
+header{
+    align-items: center;
+    padding-top:60px;
+    padding-right:40px;
+    padding-left:100px; 
+    padding-bottom:60px;
 }
 
-header {
-   text-align: center;
-   background: white;
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: 900px; 
+  margin: 0 auto;
 }
 
+.image {
+  max-width: 100%;
+  height: auto;
+  width: auto; 
+  border: 2px solid #ddd;
+}
+
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
+}
