@@ -1,10 +1,6 @@
 td,td,th{
   color: white;
-  justify-content: center;
-  max-width: 100%; 
   display: block;
-  height: auto;
-  margin: 0 auto; 
 }
 
 eva{
