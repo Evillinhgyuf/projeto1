@@ -18,13 +18,13 @@ function playPause() {
 
 function playNext() {
     currentSongIndex = (currentSongIndex + 1) % songs.length;
-    musicPlayer.src = `radiomp3/${songs[currentSongIndex]}`;
+    musicPlayer.src = `musicas/${songs[currentSongIndex]}`;
     musicPlayer.play();
 }
 
 function playPrev() {
     currentSongIndex = (currentSongIndex - 1 + songs.length) % songs.length;
-    musicPlayer.src = `radiomp3/${songs[currentSongIndex]}`;
+    musicPlayer.src = `musicas/${songs[currentSongIndex]}`;
     musicPlayer.play();
 }
 
