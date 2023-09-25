@@ -1,6 +1,9 @@
-<html>
+<html lang="en">
   <head>
     <title>RADIO... :) </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="radio.css">
   </head>
 	
 <body>
@@ -8,54 +11,126 @@
 <p>────█▀█▄▄▄▄─────██▄<br>────█▀▄▄▄▄█─────█▀▀█<br>─▄▄▄█─────█──▄▄▄█<br>██▀▄█─▄██▀█─███▀█<br>─▀▀▀──▀█▄█▀─▀█▄█▀</p>
 	  <br>
 
+	 <div class="container">
+        <h1>Player de TOTAS as Música</h1>
+        <audio id="music-player" controls>
+            <source src="radiomp3/aurora1.mp3" type="audio/mpeg">
+        </audio>
+        <div class="controls">
+            <button id="prev-button">Anterior</button>
+            <button id="play-button">Play</button>
+            <button id="next-button">Próxima</button>
+        </div>
+    </div>
+    <script src="radio.js"></script>
+
+<!-- 	///////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
 <table>
 	<tr>
-		<th> Aurora - The Seed
+		<th> Aurora - The Seed </th>
 		<td>
-			<img src="dinossauro.jpg" />
+			<img src="img/aurora(1).gif" />
 			<audio controls>
 	  		<source src="musicas/aurora1.mp3" type="audio/mpeg">
    			</audio>
 		</td>
-		</th>
 
 	</tr>
 
-	  <audio controls>
-	  <source src="musicas/aurora2.mp3" type="audio/mpeg">
-    </audio>
 
-	  <audio controls>
-	  <source src="musicas/ca1.mp3" type="audio/mpeg">
-    </audio>
+	<tr>
+		<th> Aurora - Cure For me </th>
+		<td>
+			<img src="img/aurora(2).gif" />
+	  		<audio controls>
+	 		<source src="musicas/aurora2.mp3" type="audio/mpeg">
+    			</audio>
+		</td>
+	</tr>
 
-	  <audio controls>
-	  <source src="musicas/ca2.mp3" type="audio/mpeg">
-    </audio>
 
-	  <audio controls>
-	  <source src="musicas/luisa1.mp3" type="audio/mpeg">
-    </audio>
+	<tr>
+		<th> Carole & Tuesday -Round and round </th>
+		<td>
+			<img src="img/ca(1).gif" />
+	  		<audio controls>
+	  		<source src="musicas/ca1.mp3" type="audio/mpeg">
+    			</audio>
+		</td>
+	</tr>
 	
-	  <audio controls>
-	  <source src="musicas/luisa2.mp3" type="audio/mpeg">
-    </audio>
 
-	  <audio controls>
-	  <source src="musicas/lowroar1.mp3" type="audio/mpeg">
-    </audio>
+	<tr>
+		<th> Carole & Tuesday -Army Of Two </th>
+		<td>
+			<img src="img/ca(2).gif" />
+			<audio controls>
+	  		<source src="musicas/ca2.mp3" type="audio/mpeg">
+    			</audio>
+		</td>
+	</tr>
+	
+	<tr>
+		<th> Luisa Souza -Ana Maria </th>
+		<td>
+			<img src="img/luisa(1).jfif" />
+	  		<audio controls>
+	  		<source src="musicas/luisa1.mp3" type="audio/mpeg">
+			</audio>
+		</td>
+	</tr>
 
-	  <audio controls>
-	  <source src="musicas/lowroar2.mp3" type="audio/mpeg">
-    </audio>
+	 <tr>
+		<th> Scalene -Surreal </th>
+		<td>
+			<img src="img/scalene(2).gif" />
+	  		<audio controls>
+	  		<source src="musicas/surreal2.mp3" type="audio/mpeg">
+   			</audio>
+		</td>
+	 </tr>
 
-	  <audio controls>
-	  <source src="musicas/chopin1.mp3" type="audio/mpeg">
-    </audio>
+	 <tr>
+		<th> Low Roar -Easy Way Out </th>
+		<td>
+			<img src="img/lowroar(1e2).jpg" />
+	  		<audio controls>
+	  		<source src="musicas/lowroar1.mp3" type="audio/mpeg">
+    			</audio>
+		</td>
+	 </tr>
 
-	  <audio controls>
-	  <source src="musicas/lasiene2.mp3" type="audio/mpeg">
-    </audio>
+	
+ 	<tr>
+		<th> Low Roar -I'm Leaving </th>
+		<td>
+			<img src="img/lowroar(1e2).jpg" />
+	  		<audio controls>
+	  		<source src="musicas/lowroar2.mp3" type="audio/mpeg">
+    			</audio>
+		</td>
+	</tr>
+
+	<tr>
+		<th> Chopin - Nocturne op.9 No.2 </th>
+		<td>
+			<img src="img/chopin(1).gif" />
+	  		<audio controls>
+	  		<source src="musicas/chopin1.mp3" type="audio/mpeg">
+			</audio>
+		</td>
+	</tr>
+
+	<tr>
+		<th> A Monster In Paris - La Seine </th>
+		<td>
+			<img src="img/lasiene(2).gif" />
+	 		<audio controls>
+	  		<source src="musicas/lasiene2.mp3" type="audio/mpeg">
+    			</audio>
+		</td>
+	</tr>
 	
 </table>
     
@@ -63,5 +138,9 @@
   
 	
 </body>
+
+
+
+</html>
 
 
