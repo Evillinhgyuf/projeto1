@@ -1,13 +1,11 @@
-th, td{
+tr{
     border: 1px solid black;
-    background-color: #D0D0D0;
     width: 600px;
-    text-align: center;
 }
 
 body {
-    background-image: url('img/gris.gif'); /* Caminho para a imagem de fundo */
-    background-size: cover; /* Redimensiona a imagem para cobrir todo o fundo */
+    background-image: url('img/gris.gif'); 
+    background-size: cover; 
     color: pink;
     text-align: center;
     font-family: Arial, sans-serif;
@@ -17,13 +15,12 @@ body {
     margin: 100px auto;
     max-width: 400px;
     padding: 20px;
-    border-radius: 10px; /* Adiciona bordas arredondadas ao container */
+    border-radius: 10px; 
     box-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa */
 }
 
 h1 {
     font-size: 24px;
-    text-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa ao título */
 }
 
 .controls button {
@@ -33,11 +30,10 @@ h1 {
     padding: 10px 20px;
     margin: 10px;
     cursor: pointer;
-    border-radius: 20px; /* Adiciona bordas arredondadas aos botões */
-    box-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa aos botões */
+    border-radius: 20px; 
 }
 
 .controls button:hover {
     background-color: #ff69b4;
-    box-shadow: 0 0 15px rgba(255, 105, 180, 0.9); /* Aumenta o brilho neon rosa ao passar o mouse */
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.9); 
 }
