@@ -1,6 +1,8 @@
 td,td,th{
   color: white;
   display: auto;
+  margin: 100% auto;
+  border-bottom: 10px;
 }
 
 body {
