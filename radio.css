@@ -3,7 +3,14 @@ td,td,th {
   display: auto;
   margin: 100% auto;
   border-bottom: 10px;
+  
 }
+
+<style>
+  div {
+    text-align: center;
+  }
+</style>
 
 .container img {
     max-width:400px;
