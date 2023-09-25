@@ -3,7 +3,7 @@ const playButton = document.getElementById('play-button');
 const prevButton = document.getElementById('prev-button');
 const nextButton = document.getElementById('next-button');
 
-const songs = ['musicas/aurora1.mp3', 'musicas/aurora2.mp3', 'musicas/ca1.mp3','musicas/ca2.mp3', 'musicas/luisa1.mp3', 'musicas/luisa2.mp3','musicas/lowroar1.mp3', 'musicas/lowroar2.mp3', 'musicas/chopin1.mp3', 'musicas/lasiene2.mp3' ]; 
+const songs = [ 'musicas/aurora1.mp3', 'musicas/aurora2.mp3', 'musicas/ca1.mp3','musicas/ca2.mp3', 'musicas/luisa1.mp3', 'musicas/surreal(2).mp3','musicas/lowroar1.mp3', 'musicas/lowroar2.mp3', 'musicas/chopin1.mp3', 'musicas/lasiene2.mp3' ]; 
 let currentSongIndex = 0;
 
 function playPause() {
