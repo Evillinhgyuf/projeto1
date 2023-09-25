@@ -5,7 +5,7 @@ td,td,th {
   border-bottom: 10px;
 }
 
-.container img { max-width: 200px; }
+img { max-width: 200px; }
 
 body {
     background-image: url('rosachoque/nuvelina.jpg'); /* Caminho para a imagem de fundo */
