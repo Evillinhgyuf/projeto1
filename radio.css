@@ -4,11 +4,10 @@ td,td,th{
 }
 
 img{
-  max-width: 900px; 
-  display: flex;
-  padding: 15px;
-  aling-itens:center;
-  
+  max-width: 100%; 
+  display: block;
+  height: auto;
+  margin: 0 auto; 
 }
 
 eva{
