@@ -1,12 +1,14 @@
 td,td,th{
   color: black;
-  margin: 100px ;
-  padding: 15px;
+  justify-content: center;
+}
+
+img{
   border-bottom: 1px solid; 
   display: flex;
+  padding: 15px;
   aling-itens:center;
-  justify-content: center;
-  width: 40%;
+  
 }
 
 body {
