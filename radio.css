@@ -5,7 +5,7 @@ tr{
 }
 
 body {
-    background-image: url('img/gris.gif'); 
+    background-image: url("img/gris.gif"); 
     background-size: cover; 
     color: pink;
     text-align: center;
