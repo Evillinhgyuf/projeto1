@@ -1,10 +1,15 @@
 td{
-    color: black;
-    margin: 100px auto;
-    width: auto; 
-    padding: 20px;
-    border-radius: 1px; 
-    align-items: center;
+  color: black;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 1px; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: 900px; 
+  margin: 0 auto;
     
 }
 
