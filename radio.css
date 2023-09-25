@@ -16,6 +16,7 @@ eva{
 }
 
 body {
+    background-color: black;
     background-size: cover; 
     color: pink;
     text-align: center;
