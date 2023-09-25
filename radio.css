@@ -21,7 +21,7 @@ td,td,th {
 }
 
 body {
-    background-image: url('img/nuvelina.jpg'); /* Caminho para a imagem de fundo */
+    background-color: black
     background-size: cover; /* Redimensiona a imagem para cobrir todo o fundo */
     color: pink;
     text-align: center;
