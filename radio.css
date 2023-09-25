@@ -1,9 +1,11 @@
-td,td,th{
+td,td,th {
   color: white;
   display: auto;
   margin: 100% auto;
   border-bottom: 10px;
 }
+
+.container img { max-width: 200px; }
 
 body {
     background-image: url('rosachoque/nuvelina.jpg'); /* Caminho para a imagem de fundo */
