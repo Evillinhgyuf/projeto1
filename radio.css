@@ -6,17 +6,12 @@ td,td,th {
   
 }
 
-<style>
-  div {
-    text-align: center;
-  }
-</style>
-
 .container img {
     max-width:400px;
     max-height:250px;
     width: auto;
     height: auto;
+    text-align: center;
     
 }
 
