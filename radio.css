@@ -1,11 +1,8 @@
 td,td,th{
   color: white;
-  display: block;
+  display: auto;
 }
 
-eva{
-      background-image: url("img/gato.gif"); 
-}
 
 body {
     background-color: black;
