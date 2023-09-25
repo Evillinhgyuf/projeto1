@@ -1,6 +1,38 @@
-body{
-  background-color: "#2E2E2E";
-  width: 40px;
+
+
+body {
+    background-image: url('rosachoque/nuvelina.jpg'); /* Caminho para a imagem de fundo */
+    background-size: cover; /* Redimensiona a imagem para cobrir todo o fundo */
+    color: pink;
+    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
+.container {
+    margin: 100px auto;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px; /* Adiciona bordas arredondadas ao container */
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa */
+}
 
+h1 {
+    font-size: 24px;
+    text-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa ao título */
+}
+
+.controls button {
+    background-color: pink;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 20px; /* Adiciona bordas arredondadas aos botões */
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa aos botões */
+}
+
+.controls button:hover {
+    background-color: #ff69b4;
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.9); /* Aumenta o brilho neon rosa ao passar o mouse */
+}
