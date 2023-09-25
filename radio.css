@@ -1,9 +1,10 @@
 td,td,th{
   color: black;
   margin: 100px ;
-  padding: 20px;
-  border: 1px; 
+  padding: 15px;
+  border-bottom: 1px solid; 
   display: flex;
+  aling-itens:center;
   justify-content: center;
   width: 40%;
 }
