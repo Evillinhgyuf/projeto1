@@ -6,10 +6,11 @@ td,td,th {
 }
 
 .container img {
-    max-width:200px;
-    max-height:150px;
+    max-width:400px;
+    max-height:250px;
     width: auto;
     height: auto;
+    
 }
 
 body {
