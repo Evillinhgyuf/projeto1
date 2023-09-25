@@ -4,7 +4,7 @@ td,td,th{
 }
 
 img{
-  
+  max-width: 900px; 
   display: flex;
   padding: 15px;
   aling-itens:center;
