@@ -31,4 +31,3 @@ function playPrev() {
 playButton.addEventListener('click', playPause);
 nextButton.addEventListener('click', playNext);
 prevButton.addEventListener('click', playPrev);
-
