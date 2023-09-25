@@ -11,8 +11,11 @@ img{
   
 }
 
+eva{
+      background-image: url("img/gato.gif"); 
+}
+
 body {
-    background-image: url("img/cafe.gif"); 
     background-size: cover; 
     color: pink;
     text-align: center;
