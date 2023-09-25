@@ -1,6 +1,7 @@
 tr{
     border: 1px solid black;
-    width: 600px;
+    margin: 100px auto;
+    max-width: 400px;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
     max-width: 400px;
     padding: 20px;
     border-radius: 10px; 
-    box-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Adiciona um brilho neon rosa */
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.7);
 }
 
 h1 {
